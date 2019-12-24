@@ -1,0 +1,6 @@
+<svg id="svg_list" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <path d="m23 1v22h-22v-22h22m1-1h-24v24h24zm-16 5.5h12v1h-12zm0 6h12v1h-12zm0 6h12v1h-12z"/>
+ <circle cx="5" cy="6" r="1" style="stroke-width:.0625"/>
+ <circle cx="5" cy="12" r="1" style="stroke-width:.0625"/>
+ <circle cx="5" cy="18" r="1" style="stroke-width:.0625"/>
+</svg>
